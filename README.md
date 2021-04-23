@@ -3,5 +3,5 @@ Homework for Knowledge Discovery Course of MSc in Data Science for Management, U
 
 The objective of this work is the application of Deep Learning techniques for the classification of natural images, specifically by means of Convolutional Neural Networks.
 
-The dataset is available on Kaggle [at this link](https://www.kaggle.com/prasunroy/natural-images).
+The dataset is available on Kaggle at [this link](https://www.kaggle.com/prasunroy/natural-images).
 
